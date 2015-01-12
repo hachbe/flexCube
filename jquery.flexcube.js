@@ -5,7 +5,7 @@
 
 
 ;(function($) {
-    $.fn.equalize = function(options) {
+    $.fn.flexCube = function(options) {
     	"use strict";
     	  
         var $containers = this, // this is the jQuery object
